@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCRG.dllexport", "OpenCRG\OpenCRG.vcxproj", "{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0EEEBB9A-1D64-43DB-AA29-97FD8A8FE3F3}"
+	ProjectSection(SolutionItems) = preProject
+		OpenCRG\OpenCRG.cs = OpenCRG\OpenCRG.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Debug|x64.ActiveCfg = Debug|x64
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Debug|x64.Build.0 = Debug|x64
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Debug|x86.Build.0 = Debug|Win32
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Release|x64.ActiveCfg = Release|x64
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Release|x64.Build.0 = Release|x64
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Release|x86.ActiveCfg = Release|Win32
+		{BA4AA674-A9DF-44D9-AA42-AE18D33FB9AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A750D6C9-0DA3-465D-9773-6EB5C1E64457}
+	EndGlobalSection
+EndGlobal
