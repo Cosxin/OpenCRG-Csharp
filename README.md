@@ -1,4 +1,4 @@
 # OpenCRG-Csharp
 C# Wrapper for OpenCRG
 
-#### (http://www.opencrg.org/ "OpenCRG's Homepage")
+##### [OpenCRG's Homepage](http://www.opencrg.org/)
